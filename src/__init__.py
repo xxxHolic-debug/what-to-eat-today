@@ -1,0 +1,2 @@
+"""EatRight ethical recommendation modules."""
+
